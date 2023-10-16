@@ -1,7 +1,9 @@
+import '../styles/CreateTodoButton.css';
+
 function CreateTodoButton(){
     return(
-        <button>
-            espichelo
+        <button className='CreateTodoButton'>
+            +
         </button>
     );
 }
